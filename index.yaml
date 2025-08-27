@@ -1,0 +1,19 @@
+apiVersion: v1
+entries:
+  mellerikat-auth:
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2025-08-27T01:43:27.636819495Z"
+    dependencies:
+    - alias: keycloak
+      name: keycloak
+      repository: https://charts.bitnami.com/bitnami
+      version: 25.1.2
+    description: Umbrella chart that installs Keycloak and an LDAP CA Secret together
+    digest: e93b9f8b669fdf22967c937bde5b63427e8c2678bced49a9f3778a9beac07937
+    name: mellerikat-auth
+    type: application
+    urls:
+    - https://github.com/mellerikat/mellerikat-auth/mellerikat-auth-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-08-27T01:43:27.620504905Z"
