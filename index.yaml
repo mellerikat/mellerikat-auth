@@ -3,7 +3,7 @@ entries:
   mellerikat-auth:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2025-08-27T07:26:08.07224843Z"
+    created: "2025-08-27T07:27:25.188900779Z"
     dependencies:
     - alias: keycloak
       name: keycloak
@@ -16,4 +16,4 @@ entries:
     urls:
     - https://github.com/mellerikat/mellerikat-auth/mellerikat-auth-0.1.0.tgz
     version: 0.1.0
-generated: "2025-08-27T07:26:08.061902141Z"
+generated: "2025-08-27T07:27:25.173418201Z"
